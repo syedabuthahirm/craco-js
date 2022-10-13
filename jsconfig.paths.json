@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@lib/*": ["libs/*"],
+        "section1/*": ["src/section1/*"],
+        "section2/*": ["src/section2/*"]
+      }
+    }
+}
